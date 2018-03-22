@@ -1,0 +1,7 @@
+As a group, we all have read many paper and formed the understanding of the KSVD algorithm and Cloud algorithms. Based on this understaning, we did the further work as the following:
+
+Xinyu Li & Chenfan Xiao:
+Deep understanding of the algorithms, and work together implementing the algorithms on Spark(written in Scala).
+
+Jianing Xu:
+Get familiar with AWS and lauched clusters on EMR for experimental evaluations. 
